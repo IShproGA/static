@@ -12,7 +12,7 @@
         "_id": "Item_1"
     },
     {
-        "imgß": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem3.jpg",
+        "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem3.jpg",
         "brand": "Mango People T-shirt",
         "price": "$52.00",
         "_id": "Item_2"
