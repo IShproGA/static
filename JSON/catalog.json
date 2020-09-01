@@ -2,49 +2,49 @@
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem1.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_0"
     },
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem2.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_1"
     },
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem3.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_2"
     },
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem4.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_3"
     },
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem5.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_4"
     },
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem6.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_5"
     },
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem7.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_6"
     },
     {
         "img": "https://raw.githubusercontent.com/IShproGA/static/master/sliderImg/featuredItem8.jpg",
         "brand": "Mango People T-shirt",
-        "price": "$52.00",
+        "price": "52.00",
         "_id": "Item_7"
     }
 ]
